@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="types_of_pencil">
+    <title>Types of Pencil</title>
+    <shortdesc></shortdesc>
+    <refbody>
+        <section id="section_gzj_ysw_5yb">
+            <p>We are developing a graphite pencil for artistic purposes. They can be used for
+                sketching, studies and drafts. They are extremely soft and black. The number range
+                is 4B-9B.</p>
+            <table frame="all" rowsep="1" colsep="1" id="table_ybp_l5w_5yb">
+                <title>types of pencil</title>
+                <tgroup cols="4">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1*"/>
+                    <colspec colname="c3" colnum="3" colwidth="1*"/>
+                    <colspec colname="c4" colnum="4" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry>Purpose</entry>
+                            <entry>usage</entry>
+                            <entry>Type</entry>
+                            <entry>Range</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Artistic</entry>
+                            <entry>
+                                <sl id="sl_frg_dvw_5yb">
+                                    <sli>Sketcing</sli>
+                                    <sli>Studies</sli>
+                                    <sli>Drafts</sli>
+                                </sl>
+                            </entry>
+                            <entry>soft and black</entry>
+                            <entry>
+                                <sl id="sl_p31_gvw_5yb">
+                                    <sli>4B</sli>
+                                    <sli>5B</sli>
+                                    <sli>6B</sli>
+                                    <sli>7B</sli>
+                                    <sli>8B</sli>
+                                    <sli>9B</sli>
+                                </sl>
+                            </entry>
+                        </row>
+                        <row>
+                            <entry>extremely soft,black</entry>
+                            <entry>
+                                <sl id="sl_obz_wyn_wyb">
+                                    <sli>for artistic purposes:</sli>
+                                    <sli>sketches</sli>
+                                    <sli>studies</sli>
+                                    <sli>drafts</sli>
+                                </sl>
+                            </entry>
+                            <entry/>
+                            <entry>
+                                <sl id="sl_iqh_fzn_wyb">
+                                    <sli>4B</sli>
+                                    <sli>5B</sli>
+                                    <sli>6B</sli>
+                                    <sli>7B</sli>
+                                    <sli>8B</sli>
+                                    <sli>9B</sli>
+                                </sl>
+                            </entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>
