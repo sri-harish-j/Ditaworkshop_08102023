@@ -1,0 +1,28 @@
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="topic_gmail_email">
+  <title>Use Gmail to Write an Email</title>
+  <prolog>
+    <author type="creator">srihaj</author>
+    <critdates>
+      <created date="2023-10-07"/>
+    </critdates>
+  </prolog>
+  <taskbody><context><p>Gmail is a popular email service provided by Google. Follow the steps below to write an email using Gmail:</p></context><steps>
+      <step><cmd>Open your web browser and go to the Gmail website.</cmd></step>
+      <step><cmd>Sign in to your Gmail account using your email address and password.</cmd></step>
+      <step><cmd>Once you are logged in, click on the "Compose" button located in the top-left corner of the Gmail interface. This will open a new email composition window.</cmd></step>
+      <step><cmd>In the "To" field, enter the email address of the recipient. You can also add multiple recipients by separating their email addresses with commas.</cmd></step>
+      <step><cmd>Next, enter a subject for your email in the "Subject" field. This will give the recipient an idea of what your email is about.</cmd></step>
+      <step><cmd>In the main body of the email, type your message. You can format the text using the formatting options available in the toolbar, such as bold, italic, underline, and more.</cmd></step>
+      <step><cmd>If you want to attach any files to your email, click on the "Attach files" icon (usually represented by a paperclip) in the toolbar. This will allow you to select files from your computer to attach to the email.</cmd></step>
+      <step>
+        <cmd>Once you have finished composing your email, you can select to send it immediately by
+          clicking on the "Send" button. Alternatively, you can save it as a draft by clicking on
+          the "Save draft" button. Saved drafts can be accessed later from the "Drafts" folder in
+          your Gmail account.</cmd>
+      </step>
+      <step><cmd>If you want to add any additional options to your email, such as adding a signature, changing the font, or setting a priority, you can do so by clicking on the respective icons or options available in the toolbar.</cmd></step>
+      <step><cmd>Before sending the email, it's a good practice to review it for any errors or mistakes. You can do this by clicking on the "Preview" button, which will show you a preview of how your email will appear to the recipient.</cmd></step>
+      <step><cmd>Finally, when you are ready to send the email, click on the "Send" button. Gmail will send the email to the recipient(s) and display a confirmation message.</cmd></step>
+    </steps></taskbody>
+</task>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="introduction">
+    <title>Introduction</title>
+    <prolog>
+        <author type="creator">srihaj</author>
+        <critdates>
+            <created date="2023-10-01"/>
+            <!--srihaj-->
+            <revised modified="2023-10-01"/>
+            <!--srihaj-->
+            <revised modified="2023-10-07"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>This is an introduction to the DITA profiling/conditional text feature.</p>
+        <p>You can profile content elements or map elements by adding one or more of the default
+            DITA profiling attributes (@product, @platform, @audience, @rev, @props, and
+            @otherprops).</p>
+        <p>Profiling conditions can be set both within topics and in maps.</p>
+        <p>Conditional tags are a useful feature that allows you to hide specific elements or
+            content within a document. They can be used to hide paragraphs, steps in a procedure,
+            items in a list, or even phrases within a sentence. Additionally, conditional tags can
+            be used to hide entire topics or groups of topics in a map, which allows for the
+            creation of different publications from a single map by applying profiling conditions to
+            the build.</p>
+        <ul id="ul_llj_pvl_1zb">
+            <li>Hide an element (such as a paragraph)</li>
+            <li>Hide a step in a procedure</li>
+            <li>Hide an item in a list</li>
+            <li>Hide a phrase within a sentence</li>
+            <li>Hide an entire topic or group of topics in a map</li>
+            <li>Create different publications from a single map by applying profiling conditions to
+                the build</li>
+        </ul>
+    </conbody>
+    <related-links>
+        <link href="creating_and_editing_profiling_attributes_in_dita.dita" class="- topic/link "/>
+    </related-links>
+</concept>

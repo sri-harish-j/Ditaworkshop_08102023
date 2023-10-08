@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>module 5</title>
+    <topicmeta>
+        <author type="creator">srihaj</author>
+        <critdates>
+            <created date="2023-10-01"/>
+        </critdates>
+    </topicmeta>
+    <topicref href="introduction.dita"/>
+    <topicref href="creating_and_editing_profiling_attributes_in_dita.dita"/>
+</map>

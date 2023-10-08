@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <booklibrary>Knowledge</booklibrary>
+        <mainbooktitle>My first book</mainbooktitle>
+    </booktitle>
+    <bookmeta>
+        <author type="contributor">srihaj</author>
+        <critdates>
+            <!--srihaj-->
+            <revised modified="2023-09-30"/>
+            <!--srihaj-->
+            <revised modified="2023-10-01"/>
+        </critdates>
+        <bookrights>
+            <bookowner>
+                <person>Harish</person>
+                <organization>TWT</organization>
+            </bookowner>
+        </bookrights>
+    </bookmeta>
+    <frontmatter>
+        <booklists>
+            <toc/>
+            <figurelist/>
+            <tablelist/>
+        </booklists>
+        <bookabstract href="my_book_abstract.dita"/>
+        <preface href="preface.dita"/>
+    </frontmatter>
+    
+    <chapter href="chapter_1.dita">
+        <mapref href="module1.ditamap"/>
+        <topicref href="introduction.dita"/>
+    </chapter>
+    <chapter href="chapter_2.dita">
+        <mapref href="module_2.ditamap"/>
+    </chapter>
+    <chapter href="chapter_3.dita">
+        <mapref href="module_3.ditamap"/>
+    </chapter>
+    <appendix href="appendix.dita"/>
+</bookmap>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_nsh_pyl_1zb">
+    <title>TechWriters Tribe<ph keyref="version_number"/> workshop</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author type="creator">srihaj</author>
+        <critdates>
+            <created date="2023-10-07"/>
+            <!--srihaj-->
+            <revised modified="2023-10-08"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p><image keyref="saveicon" id="image_rnq_1mm_1zb"/>This topic provides the following
+            TechWriters Tribe workshop details:</p>
+        <ul id="ul_jtm_syl_1zb">
+            <li>TechWriters Tribe<ph keyref="version_number"/> introduction</li>
+            <li>TechWriters Tribe session 1</li>
+            <li>TechWriters Tribe session 2</li>
+            <li>TechWriters Tribe session 3</li>
+        </ul>
+        <note id="note_hvk_5yl_1zb">Attending all TechWriters Tribe<ph keyref="version_number"/>
+            sessions is mandatory.</note>
+    </conbody>
+    <related-links>
+        <link keyref="mircosoft365" format="html" scope="external"/>
+        <link keyref="microsoftteams" format="html" scope="external"/>
+    </related-links>
+</concept>

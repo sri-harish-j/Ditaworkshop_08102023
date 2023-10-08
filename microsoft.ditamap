@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>microsoft</title>
+    <topicmeta>
+        <author type="creator">srihaj</author>
+        <critdates>
+            <created date="2023-10-07"/>
+            <!--srihaj-->
+            <revised modified="2023-10-07"/>
+        </critdates>
+    </topicmeta>
+    <keydef keys="mircosoft365" href="https://learn.microsoft.com/en-gb/microsoft-365">
+        <topicmeta>
+            <keywords>
+                <keyword>Microsoft 365</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="microsoftteams" href="https://learn.microsoft.com/en-gb/microsoftteams">
+        <topicmeta>
+            <keywords>
+                <keyword>Microsoft teams</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="saveicon" href="Screenshot%202023-09-23%20120306.png" format="png"></keydef>
+</map>

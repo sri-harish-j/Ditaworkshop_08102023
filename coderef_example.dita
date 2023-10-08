@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="coderef_example">
+    <title>coderef example</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author type="creator">srihaj</author>
+        <critdates>
+            <created date="2023-10-01"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>The following is an example of  <codeph>coderef</codeph> element in DITA.</p>
+        <example id="example_xns_tkn_yyb">
+            <title>&lt;coderef> usage</title>
+            <codeblock id="codeblock_xqc_xkn_yyb" outputclass="language-cpp"><coderef href="helloworld.cpp#line-range(4,8)"/></codeblock>
+        </example>
+    </conbody>
+</concept>

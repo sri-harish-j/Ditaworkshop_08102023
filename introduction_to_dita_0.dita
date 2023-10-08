@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="introduction_to_dita_0">
+    <title>Introduction to DITA</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author type="contributor">srihaj</author>
+        <critdates>
+            <!--srihaj-->
+            <revised modified="2023-09-30"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p id="p_ykx_n3n_yyb">The <b>Darwin Information Typing Architecture</b> (<b>DITA</b>)
+            specification defines a set of document types for authoring and organizing
+            topic-oriented information, as well as a set of mechanisms for combining, extending, and
+            constraining document types.<sup><xref
+                    href="https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture#cite_note-dita1.3-1"
+                    format="html" scope="external">[1]</xref></sup> It is an open standard<sup><xref
+                    href="https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture#cite_note-dita1.2-2"
+                    format="html" scope="external">[2]</xref></sup> that is defined and maintained
+            by the <xref href="https://en.wikipedia.org/wiki/OASIS_(organization)" format="html"
+                scope="external">OASIS</xref> DITA Technical Committee.</p>
+        <p>The name derives from the following components:</p>
+        <ol id="ul_wys_cqw_5yb">
+            <li>Darwin: it uses the principles of specialization and <xref
+                    href="https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)"
+                    format="html" scope="external">inheritance</xref>, which is in some ways
+                analogous to the naturalist <xref
+                    href="https://en.wikipedia.org/wiki/Charles_Darwin" format="html"
+                    scope="external">Charles Darwin</xref>'s concept of evolutionary
+                adaptation,</li>
+            <li>Information Typing: which means each topic has a defined primary objective
+                (procedure, glossary entry, troubleshooting information) and structure,</li>
+            <li>Architecture: DITA is an extensible set of structures</li>
+        </ol>
+    </conbody>
+</concept>

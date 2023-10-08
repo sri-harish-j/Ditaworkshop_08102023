@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="chapter_3">
+    <title>chapter 3</title>
+    <prolog>
+        <author type="contributor">srihaj</author>
+        <critdates>
+            <!--srihaj-->
+            <revised modified="2023-09-30"/>
+            <!--srihaj-->
+            <revised modified="2023-10-01"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>This is chapter 3 of  your book. <xref>https://www.google.co.in</xref><xref
+                href="http://google.co.in" format="html" scope="external"/></p>
+        <draft-comment author="srihaj">what's draft-comment? a piece of information which isn't
+            published.</draft-comment>
+        <p conref="introduction_to_dita_0.dita#introduction_to_dita_0/p_ykx_n3n_yyb"/>
+    </conbody>
+</concept>

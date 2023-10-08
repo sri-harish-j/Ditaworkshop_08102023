@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="chapter_2">
+    <title>chapter 2</title>
+    <prolog>
+        <author type="contributor">srihaj</author>
+        <critdates>
+            <!--srihaj-->
+            <revised modified="2023-09-30"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>This is the chapter 2 of my book.</p>
+        <p conref="introduction_to_dita_0.dita#introduction_to_dita_0/p_ykx_n3n_yyb"/>
+    </conbody>
+</concept>

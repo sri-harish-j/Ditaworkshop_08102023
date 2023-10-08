@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>module 6</title>
+    <topicmeta>
+        <author type="creator">srihaj</author>
+        <critdates>
+            <created date="2023-10-07"/>
+            <!--srihaj-->
+            <revised modified="2023-10-07"/>
+        </critdates>
+    </topicmeta>
+    <topicref href="TWT_workshop.dita"/>
+    <topicgroup>
+        <topicmeta>
+            <navtitle>keys</navtitle>
+        </topicmeta>
+        <keydef keys="version_number">
+            <topicmeta>
+                <keywords>
+                    <keyword>v2.0</keyword>
+                </keywords>
+            </topicmeta>
+        </keydef>
+    </topicgroup>
+    <mapref href="microsoft.ditamap"/>
+</map>

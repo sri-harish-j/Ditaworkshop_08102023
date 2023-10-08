@@ -1,0 +1,83 @@
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_dita_tables">
+  <title>Using DITA Tables with Table</title>
+  <prolog>
+    <author type="creator">srihaj</author>
+    <critdates>
+      <created date="2023-10-08"/>
+    </critdates>
+  </prolog>
+  <body>
+    <p>DITA tables are a powerful feature that allows you to organize and present data in a structured manner. The <code>table</code> element is used to create tables in DITA.</p>
+    
+    <section>
+      <title>Creating a Basic Table</title>
+      <p>To create a basic table, you need to use the <code>table</code> element along with its child elements: <code>row</code>, <code>entry</code>, and <code>entrytbl</code>.</p>
+      <p>A <code>row</code> element represents a row in the table. Inside each <code>row</code>, you can have multiple <code>entry</code> elements, which represent the cells in that row. If you want to create nested tables within a cell, you can use the <code>entrytbl</code> element.</p>
+      <p>Here's an example of a basic table structure:</p>
+      <pre>
+        <code>
+          &lt;table&gt;
+            &lt;row&gt;
+              &lt;entry&gt;Cell 1&lt;/entry&gt;
+              &lt;entry&gt;Cell 2&lt;/entry&gt;
+            &lt;/row&gt;
+            &lt;row&gt;
+              &lt;entry&gt;Cell 3&lt;/entry&gt;
+              &lt;entry&gt;Cell 4&lt;/entry&gt;
+            &lt;/row&gt;
+          &lt;/table&gt;
+        </code>
+      </pre>
+    </section>
+    
+    <section>
+      <title>Adding Headers to the Table</title>
+      <p>To add headers to your table, you can use the <code>thead</code> and <code>th</code> elements. The <code>thead</code> element is used to group the header rows, and the <code>th</code> element represents a header cell.</p>
+      <p>Here's an example of a table with headers:</p>
+      <pre>
+        <code>
+          &lt;table&gt;
+            &lt;thead&gt;
+              &lt;row&gt;
+                &lt;th&gt;Header 1&lt;/th&gt;
+                &lt;th&gt;Header 2&lt;/th&gt;
+              &lt;/row&gt;
+            &lt;/thead&gt;
+            &lt;row&gt;
+              &lt;entry&gt;Cell 1&lt;/entry&gt;
+              &lt;entry&gt;Cell 2&lt;/entry&gt;
+            &lt;/row&gt;
+            &lt;row&gt;
+              &lt;entry&gt;Cell 3&lt;/entry&gt;
+              &lt;entry&gt;Cell 4&lt;/entry&gt;
+            &lt;/row&gt;
+          &lt;/table&gt;
+        </code>
+      </pre>
+    </section>
+    
+    <section>
+      <title>Styling the Table</title>
+      <p>You can apply styles to your DITA tables using CSS. You can target the <code>table</code>, <code>row</code>, <code>entry</code>, and <code>entrytbl</code> elements to customize their appearance.</p>
+      <p>For example, to add a border to the table and change the background color of the header cells, you can use the following CSS:</p>
+      <pre>
+        <code>
+          table {
+            border: 1px solid #000;
+          }
+          
+          th {
+            background-color: #f0f0f0;
+          }
+        </code>
+      </pre>
+    </section>
+    
+    <section>
+      <title>Using DITA Tables with Other DITA Elements</title>
+      <p>DITA tables can be used in conjunction with other DITA elements to create more complex structures. For example, you can nest tables within tables, or include tables within steps or procedures.</p>
+      <p>When using tables within other DITA elements, make sure to follow the appropriate DITA structure and nesting rules.</p>
+    </section>
+  </body>
+</topic>

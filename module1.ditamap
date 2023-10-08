@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Module1</title>
+    <topicmeta>
+        <author type="contributor">srihaj</author>
+        <critdates>
+            <!--srihaj-->
+            <revised modified="2023-10-01"/>
+        </critdates>
+    </topicmeta>
+    <topicgroup>
+        <topicmeta>
+            <navtitle>Introduction to DITA</navtitle>
+        </topicmeta>
+        <topicref href="introduction_to_dita_0.dita"/>
+        <topicgroup>
+            <topicmeta>
+                <navtitle>What is DITA?</navtitle>
+            </topicmeta>
+            <topicgroup>
+                <topicmeta>
+                    <navtitle>1.1.2</navtitle>
+                </topicmeta>
+            </topicgroup>
+            <topicgroup>
+                <topicmeta>
+                    <navtitle>1.1.3</navtitle>
+                </topicmeta>
+            </topicgroup>
+            <topicgroup>
+                <topicmeta>
+                    <navtitle>1.1.4</navtitle>
+                </topicmeta>
+            </topicgroup>
+            <topicgroup>
+                <topicmeta>
+                    <navtitle>1.1.5</navtitle>
+                </topicmeta>
+            </topicgroup>
+            <topicgroup>
+                <topicmeta>
+                    <navtitle>1.1.6</navtitle>
+                </topicmeta>
+            </topicgroup>
+            <topicgroup>
+                <topicmeta>
+                    <navtitle>1.1.7</navtitle>
+                </topicmeta>
+            </topicgroup>
+            <topicgroup>
+                <topicmeta>
+                    <navtitle>1.1.8</navtitle>
+                </topicmeta>
+            </topicgroup>
+            <topicgroup>
+                <topicmeta>
+                    <navtitle>1.1.9</navtitle>
+                </topicmeta>
+            </topicgroup>
+            <topicgroup>
+                <topicmeta>
+                    <navtitle>1.1.10</navtitle>
+                </topicmeta>
+            </topicgroup>
+        </topicgroup>
+        <topicgroup>
+            <topicmeta>
+                <navtitle>Bussiness advantages of DITA</navtitle>
+            </topicmeta>
+        </topicgroup>
+    </topicgroup>
+    <reltable>
+        <title>Reltable for Module 1</title>
+        <relheader>
+            <relcolspec type="concept"/>
+            <relcolspec type="task"/>
+            <relcolspec type="reference"/>
+        </relheader>
+        <relrow>
+            <relcell>
+                <topicref href="introduction_to_dita_0.dita"/>
+            </relcell>
+            <relcell/>
+            <relcell/>
+        </relrow>
+        <relrow>
+            <relcell/>
+            <relcell/>
+            <relcell/>
+        </relrow>
+    </reltable>
+</map>
